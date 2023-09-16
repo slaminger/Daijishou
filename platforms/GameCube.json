@@ -84,8 +84,8 @@
       "killPackageProcesses": false,
       "killPackageProcessesWarning": true,
       "extra": ""
-    }
-        {
+    },
+    {
       "name": "gc - Dolphin Ishiiruka",
       "uniqueId": "gc.org.dolphin.ishiirukadark",
       "description": null,
